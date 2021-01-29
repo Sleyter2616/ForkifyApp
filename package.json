@@ -10,12 +10,6 @@
   "author": "Sleyter De La Cruz",
   "license": "ISC",
   "devDependencies": {
-    "@babel/cli": "^7.12.10",
-    "@babel/core": "^7.12.10",
-    "@babel/plugin-proposal-class-properties": "^7.12.1",
-    "@babel/plugin-proposal-private-methods": "^7.12.1",
-    "@babel/plugin-proposal-private-property-in-object": "^7.12.1",
-    "@babel/preset-env": "^7.12.11",
     "parcel": "^2.0.0-nightly.551",
     "sass": "^1.32.5"
   },
